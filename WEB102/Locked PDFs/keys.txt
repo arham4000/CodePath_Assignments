@@ -1,2 +1,9 @@
 0 - instructions
 1 - seaworthy
+2 - OOZEdiveTRAPpine
+3 - 6games-container.stats-card15
+4 - 11seafoamGAMES_JSON
+5 - 19187800268BRAIN
+6 - 74FLANNELclick
+7 - toLocaleString<div>1IVY
+Submit - ZooHowCEDAR
